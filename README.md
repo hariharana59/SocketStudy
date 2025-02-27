@@ -1,4 +1,4 @@
-# Ex.No:1a  Study of Socket Programming
+# Ex.No:1a     Study of Socket Programming
 
 ## Name:Hariharan A
 ## Register number:212223110013
